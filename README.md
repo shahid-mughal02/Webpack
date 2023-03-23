@@ -12,15 +12,15 @@ npm i -D webpack webpack-cli
 ```
 npm i uuid
 ```
-###remove uuid
+### Remove uuid
 ```
 npm remove uuid
 ```
 
 ## After defining mode in config
-[x] "build": "webpack --mode production"
-- Replaced
-[x] "build": "webpack
+- [x] "build": "webpack --mode production"
+> Replaced
+- [x] "build": "webpack
 
 ## Installing Loaders
 ```
