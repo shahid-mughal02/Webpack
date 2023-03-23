@@ -57,7 +57,7 @@ rules: {
     }
 ```
 
-## install axios for joke api
+## Install axios for joke api
 ```
 npm i -D axios
 ```
