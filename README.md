@@ -18,7 +18,7 @@ npm remove uuid
 ```
 
 ## After defining mode in config
-- [x] "build": "webpack --mode production"
+- [ ] "build": "webpack --mode production"
 > Replaced
 - [x] "build": "webpack
 
@@ -28,8 +28,10 @@ npm i -D sass style-loader css-loader sass-loader
 ```
 
 ## HTMLWebpackPlugin 
--> install this if you don't want to edit the dist/index.html file
+> install this if you don't want to edit the dist/index.html file
+```
 npm i -D html-webpack-plugin
+```
 
 ## Caching
 https://webpack.js.org/guides/caching/
